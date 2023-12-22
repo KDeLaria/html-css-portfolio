@@ -1,5 +1,8 @@
 # KDeLaria Webpage
 
+![KDeLaria Webpage](./assets/images/Screenshot.png)
+Visit the [KDeLaria Webpage](https://kdelaria.github.io/portfolio/).
+
 ## Description
 
  This webpage was designed to show the user the projects that KDeLaria has made.

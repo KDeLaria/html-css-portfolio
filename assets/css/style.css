@@ -28,13 +28,14 @@ header img {
   display: flex;
   width: 120px;
   height: 160px;
+  margin-left: 10px;
 }
 #header-label {
   padding: 5px;
   width: fit-content;
   height: fit-content ;
   position: absolute;
-  left: 50px;
+  left: 60px;
   background-color: var(--label-highlight);
 }
 
@@ -88,7 +89,7 @@ ul {
 /* Contact me links */
 .contact-me ul {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .contact-me a, .contact-me a:visited {
   color: var(--contact-links);
@@ -104,6 +105,11 @@ nav li a, nav li a:visited {
   color: var(--navigation-color);
   text-decoration: none;
 }
+
+nav ul {
+  padding-right: 10px;
+}
+
 a:hover {
   text-decoration: underline;
 }
